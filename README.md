@@ -1,1 +1,1 @@
-# -JWTAuthKtor
+# JWTAuthKtor
